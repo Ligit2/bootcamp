@@ -9,5 +9,6 @@ public class Main {
         }
         long end = System.nanoTime();
         System.out.println(end-start);
+
     }
 }
